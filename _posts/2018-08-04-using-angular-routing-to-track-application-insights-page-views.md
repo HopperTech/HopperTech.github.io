@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Using Angular Routing to Track Application Insights Page Views
 date: 2018-08-04
-categories: [Azure, Application Insights]
+categories: 
+- Azure
+- Application-Insights
 ---
 
 # Using Angular Routing to Track Application Insights Page Views
